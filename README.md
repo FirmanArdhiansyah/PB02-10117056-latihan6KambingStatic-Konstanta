@@ -1,0 +1,1 @@
+# PB02-10117056-latihan6KambingStatic-Konstanta
